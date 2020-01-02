@@ -2,6 +2,8 @@
 
 A [Building Blox](https://github.com/Building-Blox/building-blox) bio partial.
 
+![Bio Partial](https://building-blox.s3.amazonaws.com/quiz/about.PNG)
+
 ## Dependencies
 - Bootstrap
 
